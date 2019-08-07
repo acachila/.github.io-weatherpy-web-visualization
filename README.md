@@ -1,5 +1,5 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
-## Weather Visualization
+## Northwestern Data Science Boot Camp
 
 https://acachila.github.io/acachila.github.io-weatherpy-web-visualization/
